@@ -1,0 +1,16 @@
+body {
+    background-color: #F3F2EF;
+}
+
+.main-content {
+    width: 100%;
+}
+
+.carousel-inner {
+    height: 40rem !important;
+}
+
+.carousel-item {
+    height: 100% !important;
+    width: 100% !important;
+}
